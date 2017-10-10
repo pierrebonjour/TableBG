@@ -1,0 +1,9 @@
+C:\Dev\Table\TableBG\TableBG\bin\Debug\TableBG.exe.config
+C:\Dev\Table\TableBG\TableBG\bin\Debug\TableBG.exe
+C:\Dev\Table\TableBG\TableBG\bin\Debug\TableBG.pdb
+C:\Dev\Table\TableBG\TableBG\obj\Debug\TableBG.Form1.resources
+C:\Dev\Table\TableBG\TableBG\obj\Debug\TableBG.Properties.Resources.resources
+C:\Dev\Table\TableBG\TableBG\obj\Debug\TableBG.csproj.GenerateResource.Cache
+C:\Dev\Table\TableBG\TableBG\obj\Debug\TableBG.exe
+C:\Dev\Table\TableBG\TableBG\obj\Debug\TableBG.pdb
+C:\Dev\Table\TableBG\TableBG\obj\Debug\TableBG.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+verre vide : 175g
+carafe pleine : 1600g
+verre plein : 390g
+assiette pleine : 1380g
+carafe vide : 675g
